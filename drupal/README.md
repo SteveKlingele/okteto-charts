@@ -7,3 +7,5 @@ This chart bootstraps a [Drupal](https://github.com/bitnami/bitnami-docker-drupa
 It also packages the [Bitnami MariaDB chart](https://github.com/kubernetes/charts/tree/master/stable/mariadb) which is required for bootstrapping a MariaDB deployment as a database for the Drupal application.
 
 Refer to the [original chart](https://github.com/helm/charts/blob/master/stable/drupal/README.md) for advanced parameter configuration.
+
+Base chart for the CDW application.
